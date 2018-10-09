@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "bme-project",
+    "slug": "bme-project-app",
+    "sdkVersion": "27.0.0",
+    "icon": "./src/Images/bme-logo.png",
+    "ios": {
+        "bundleIdentifier": "com.bmeProjectApp.app"
+    },
+    "android": {
+        "package": "com.bmeProjectApp.app"
+    }
+  }
+}
