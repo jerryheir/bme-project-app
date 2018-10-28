@@ -14,11 +14,11 @@ export const topic = [
     {
       key: 4,
       name: 'ELECTRONIC COMPONENTS'
-    }/*,
+    },
     {
       key: 5,
-      name: 'TERMS USED IN BIO TECHNOLOGY/BIO MEDICAL ENGINEERING'
-    }*/
+      name: 'REFERENCES AND RESOURCES'
+    }
   ];
 
 const device = [
@@ -64,28 +64,18 @@ const device = [
     },
     {
         key: 9,
-        device: 'INFANT RADIANT WARMER',
-        "image": require('../Images/infantRadiantWarmer.jpg'),
-    },
-    {
-        key: 10,
         "device": 'ENDOSCOPE',
         "image": require('../Images/endoscope.png'),
     },
     {
-        key: 11,
+        key: 10,
         device: 'ULTRASOUND',
         "image": require('../Images/ultrasound.jpg'),
     },
     {
-        key: 12,
+        key: 11,
         device: 'PULSE OXIMETER',
         "image": require('../Images/pulseOximeter.jpg'),
-    },
-    {
-        key: 13,
-        device: 'STETHOSCOPE',
-        "image": require('../Images/first.jpg'),
     }
 ]
 

@@ -5,10 +5,13 @@
     "sdkVersion": "27.0.0",
     "icon": "./src/Images/bme-logo.png",
     "ios": {
-        "bundleIdentifier": "com.bmeProjectApp.app"
+        "bundleIdentifier": "com.bmeProjectApp.myapp"
     },
     "android": {
-        "package": "com.bmeProjectApp.app"
+        "package": "com.bmeProjectApp.myapp",
+        "versionCode": 2,
+        "permissions": [],
+        "icon": "./src/Images/bme-logo.png"
     }
   }
 }
